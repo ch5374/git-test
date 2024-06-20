@@ -39,6 +39,8 @@ exe
 현재의 exe 세팅으로 Bundle 15, 즉 data에 conf_256x192_0.bin ~ conf_256x192_14.bin/
 depth_256x192_0.bin ~ depth_256x192_14.bin 까지 해서 총 30개의 파일이 있을 때
 작동하게 됩니다. 
+
+
 ![image](https://github.com/ch5374/git-test/assets/91928725/485b21a6-f374-4c89-a803-5544466a29cc)
 
 
